@@ -64,7 +64,7 @@ Profile completion checks before accessing the dashboard.
 ## 📦 **Project Structure**
 
 
-cluematrix/
+shreeyash/
 ├── client/                   # Frontend
 │   ├── public/
 │   ├── src/
