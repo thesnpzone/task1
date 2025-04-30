@@ -1,0 +1,19 @@
+.role-selection-font {
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.role-selection-heading {
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    color: #1f1f1f;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.highlighted-text {
+    color: #1976d2;
+    /* MUI primary color */
+    font-weight: 700;
+}
